@@ -19,14 +19,13 @@
 - **WebSocket**: Realtime communication trong các ứng dụng
 - **UI/UX**: SASS/SCSS, Boostrap, Tailwind CSS, Responsive Design, Theming, Figma
 - **File & Video Handling**: Upload, preview, xử lý file và video cơ bản
-- **Authentication**: SSO, OAuth2
-- **Best Practices**: Project structure theo convention, code splitting, reusable components
-- **Performance Tools**: Lighthouse, Lazy Loading, SonarQube
+- **Authentication**: SSO, OAuth2, JWT
+- **Best Practices**: Project structure follow convention, code splitting, reusable components
 
-### Back-End (Phối hợp hoặc kiến thức liên quan)
+### Phối hợp hoặc kiến thức liên quan
 - REST API integration với **Spring Boot**
 - Sử dụng **WebSocket**, **JWT**, **OAuth2**
-- Làm việc với **Webhook (VietQR)** và Email integration
+- Làm việc với Webhook (VietQR), Email integration, Third party API (Gemini API), Google Script
 
 ### Database
 - **PostgreSQL**, **Redis**, **SQL Server**
@@ -76,7 +75,7 @@
 ---
 
 ## 📈 Định hướng phát triển
-- Học thêm Framework Frontend, phát triển mobile app
+- Học thêm Frontend Framework, Mobile App
 - Hướng tới phát triển thêm mảng Backend
 - Nâng cao hiệu suất Front-End (Code Splitting, Bundle Analyzer)
 
