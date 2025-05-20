@@ -16,7 +16,7 @@
 - **Angular 19+**: Modules, Services, RxJS, Pipes, Routing, HttpClient
 - **State Management**: Redux Toolkit, RxJS Subjects, NgRx (cơ bản)
 - **WebSocket**: Realtime communication trong các ứng dụng
-- **UI/UX**: SASS/SCSS, Boostrap, Tailwind CSS, Responsive Design, Theming, Figma
+- **UI/UX**: SASS/SCSS, Boostrap, Tailwind CSS, Responsive Design, Theming, Figma, Draw.io
 - **File & Video Handling**: Upload, preview, xử lý file và video cơ bản
 - **Authentication**: SSO, OAuth2, JWT
 - **Best Practices**: Project structure follow convention, code splitting, reusable components
@@ -27,6 +27,7 @@
 - Làm việc với Webhook (VietQR), Email integration, Third party API (Gemini API), Google Script
 - Sử dụng AI Chat tăng hiệu suất công việc, tìm hiểu công nghệ.
 - Deploy code với Vercel
+- Quản lý task, công việc sử dụng Jira, Excel
 
 ### Database
 - **PostgreSQL**, **Redis**, **SQL Server**
