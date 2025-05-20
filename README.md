@@ -42,7 +42,7 @@
 ## 📁 Dự án tiêu biểu
 
 ### 🚀 **1. Hệ thống Quản lý Nhân sự**
-- **Mô tả dự án**: Web app với các tính năng quản lý nhân sự và công lương trong một tổ chức có nhiều phòng ban. Các chức năng cốt lõi: quản lý CRUD, xử lý import-export dữ liệu các bảng nội dung (Nhân sự, bảng luong,...), Single Sign-On, quản lý theo role.
+- **Mô tả dự án**: Web app với các tính năng quản lý nhân sự và công lương trong một tổ chức có nhiều phòng ban. Các chức năng cốt lõi: quản lý CRUD, xử lý import-export dữ liệu các bảng nội dung (Nhân sự, bảng lương,...), Single Sign-On, quản lý theo role.
 - **Thời gian**: 09/2024 – 12/2024
 - **Vị trí**: Leader – Front-End Developer
 - **Nơi thực hiện**: DU1.6 – CMC Global (Thực tập)
