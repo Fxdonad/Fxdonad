@@ -47,9 +47,6 @@
 - **Vị trí**: Leader – Front-End Developer
 - **Nơi thực hiện**: DU1.6 – CMC Global (Thực tập)
 - **Số lượng thành viên**: 5
-- **Mô tả**:
-  - Ứng dụng web quản lý nhân sự và công lương trong tổ chức nhiều phòng ban.
-  - Các tính năng: CRUD, Import/Export Excel, SSO, quản lý role & phân quyền.
 - **Công nghệ sử dụng**:
   - **FE**: React, SASS, WebSocket, Redux, React Router, Lazy Loading, REST API
   - **BE**: Java Spring Boot, Spring Security, OAuth2, Email integration, Spring WebSocket
@@ -64,9 +61,6 @@
 - **Vị trí**: Member – Front-End Developer
 - **Nơi thực hiện**: CMC University
 - **Số lượng thành viên**: 2
-- **Mô tả**:
-  - Website cho phép người dùng xem và đánh giá anime.
-  - Tính năng: đăng phim, quản lý tài khoản, bình luận, lịch sử xem, thông báo, hệ thống đánh giá.
 - **Công nghệ sử dụng**:
   - **FE**: Angular 19+, SASS, Pipes, RxJS, HttpClient, Routing, Lazy Loading
   - **BE**: Java Spring Boot, Spring Security, Mail SMTP, Hibernate, Mapstruct, Ffmpeg, Observer Pattern, WebSocket
