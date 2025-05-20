@@ -26,6 +26,7 @@
 - REST API integration với **Spring Boot**
 - Sử dụng **WebSocket**, **JWT**, **OAuth2**
 - Làm việc với Webhook (VietQR), Email integration, Third party API (Gemini API), Google Script
+- Sử dụng AI Chat tăng hiệu suất công việc, tìm hiểu công nghệ.
 
 ### Database
 - **PostgreSQL**, **Redis**, **SQL Server**
