@@ -41,6 +41,7 @@
 ## 📁 Dự án tiêu biểu
 
 ### 🚀 **1. Hệ thống Quản lý Nhân sự**
+- **Mô tả dự án**: Web app với các tính năng quản lý nhân sự và công lương trong một tổ chức có nhiều phòng ban. Các chức năng cốt lõi: quản lý CRUD, xử lý import-export dữ liệu các bảng nội dung (Nhân sự, bảng luong,...), Single Sign-On, quản lý theo role.
 - **Thời gian**: 09/2024 – 12/2024
 - **Vị trí**: Leader – Front-End Developer
 - **Nơi thực hiện**: DU1.6 – CMC Global (Thực tập)
@@ -57,6 +58,7 @@
 ---
 
 ### 🎥 **2. Web xem phim Anime**
+- **Mô tả dự án**: Web xem phim với các tính năng cho phép đăng phim, baner, poster phim, quản lý watchlist, lịch sử xem, quản lý tài khoản, quản lý phim (Lịch đăng, phim trễ, ...), hệ thống tài khoản cá nhân, hệ thống bình luận, hệ thống thông báo, đánh giá phim.
 - **Thời gian**: 01/2025 – 04/2025
 - **Vị trí**: Member – Front-End Developer
 - **Nơi thực hiện**: CMC University
