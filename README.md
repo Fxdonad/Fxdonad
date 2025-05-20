@@ -6,7 +6,6 @@
 - **Vị trí:** Front-End Developer
 - **Kinh nghiệm:** 6 tháng (React), 4 tháng (Angular)
 - **Email:** Toquangduc2004@gmail.com
-- **GitHub:** [[GitHub]](https://github.com/Fxdonad)
 
 ---
 
