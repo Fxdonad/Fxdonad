@@ -69,7 +69,7 @@
   - **BE**: Java Spring Boot, Spring Security, Mail SMTP, Hibernate, Mapstruct, Ffmpeg, Observer Pattern, WebSocket
   - **DB**: SQL Server
   - **Test**: JUnit, Selenium E2E, Lighthouse, SonarQube
-- **Link repo**: [https://github.com/Fxdonad/animeh](https://github.com/orgs/AnimeHWeb/repositories)
+- **Link repo**: [AnimeH](https://github.com/orgs/AnimeHWeb/repositories)
 
 ---
 
