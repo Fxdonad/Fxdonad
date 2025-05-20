@@ -4,7 +4,7 @@
 
 - **Họ tên:** Tô Quang Đức
 - **Vị trí:** Front-End Developer
-- **Kinh nghiệm:** 6 tháng (React), 4 tháng (Angular)
+- **Kinh nghiệm:** React (6 tháng), Angular (4 tháng)
 - **Email:** Toquangduc2004@gmail.com
 
 ---
@@ -35,6 +35,7 @@
 - **E2E Testing**: Selenium
 - **Unit Testing**: JUnit
 - **Performance Audit**: Lighthouse, Jmeter
+- **API Test**: Postman
 
 ---
 
