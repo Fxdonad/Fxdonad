@@ -27,6 +27,7 @@
 - Sử dụng **WebSocket**, **JWT**, **OAuth2**
 - Làm việc với Webhook (VietQR), Email integration, Third party API (Gemini API), Google Script
 - Sử dụng AI Chat tăng hiệu suất công việc, tìm hiểu công nghệ.
+- Deploy code với Vercel
 
 ### Database
 - **PostgreSQL**, **Redis**, **SQL Server**
