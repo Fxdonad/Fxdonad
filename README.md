@@ -17,7 +17,7 @@
 - **Angular 19+**: Modules, Services, RxJS, Pipes, Routing, HttpClient
 - **State Management**: Redux Toolkit, RxJS Subjects, NgRx (cơ bản)
 - **WebSocket**: Realtime communication trong các ứng dụng
-- **UI/UX**: SASS/SCSS, Responsive Design, Theming
+- **UI/UX**: SASS/SCSS, Boostrap, Tailwind CSS, Responsive Design, Theming, Figma
 - **File & Video Handling**: Upload, preview, xử lý file và video cơ bản
 - **Authentication**: SSO, OAuth2
 - **Best Practices**: Project structure theo convention, code splitting, reusable components
