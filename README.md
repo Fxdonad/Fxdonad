@@ -33,7 +33,7 @@
 - **PostgreSQL**, **Redis**, **SQL Server**
 
 ### Testing
-- **E2E Testing**: Selenium
+- **E2E Testing**: Selenium, Cypress
 - **Unit Testing**: JUnit
 - **Performance Audit**: Lighthouse, Jmeter
 - **API Test**: Postman
